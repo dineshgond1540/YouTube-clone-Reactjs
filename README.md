@@ -2,6 +2,13 @@
 
 [Project link Clicked here](https://youtube-clone-dinesh-gond.netlify.app/).
 
+#Outputs
+![Screenshot (2324)](https://github.com/dineshgond1540/YouTube-clone-Reactjs/assets/111498360/d5c41d74-35f6-4d66-8ef0-abb5861055ad)![Screenshot (2327)](https://github.com/dineshgond1540/YouTube-clone-Reactjs/assets/111498360/73854c31-e938-4179-bfbd-db7c0a068d3f)
+![Screenshot (2328)](https://github.com/dineshgond1540/YouTube-clone-Reactjs/assets/111498360/6c78717c-aece-4ce4-9b6d-c6236b6b3982)![Screenshot (2329)](https://github.com/dineshgond1540/YouTube-clone-Reactjs/assets/111498360/d4b8bae4-a0c5-4c81-b790-ed678b125665)
+![Screenshot (2325)](https://github.com/dineshgond1540/YouTube-clone-Reactjs/assets/111498360/96fa5316-a197-4c3b-a288-b333f322bff9)
+
+
+
 
 # Getting Started with Create React App
 
