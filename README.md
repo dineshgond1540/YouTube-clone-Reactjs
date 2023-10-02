@@ -1,6 +1,6 @@
-#deployed linked 
+#deployment link below 
 
-[deployed linked](https://youtube-clone-dinesh-gond.netlify.app/).
+[Project link Clicked here](https://youtube-clone-dinesh-gond.netlify.app/).
 
 
 # Getting Started with Create React App
